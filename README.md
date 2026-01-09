@@ -1,2 +1,2 @@
 # scRNA-Pipeline-Application
-A full-stack scRNA-seq pipeline that processes single-cell datasets using background workers and exposes results through an API-driven, interactive frontend.
+A cloud-based full-stack application for running and visualizing single-cell RNA-seq analysis workflows, designed to demonstrate bioinformatics and software engineering fundamentals.
